@@ -1,19 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fantasy.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fantasy.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/efexroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efexroot" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/hotlinebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/hotlinebest" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fantasxrd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fantasxrd" /></a><a href="https://ko-fi.com/fantasyxrd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fantasyxrd" /></a></p><br><br>
-
-
 <a href="https://github.com/Jurredr/github-widgetbox">
   <p align=center>
     <img src="https://github-widgetbox.vercel.app/api/profile?username=fantasyxrd&data=followers,repositories,stars,commits&theme=darkmode" alt="">
@@ -32,3 +16,78 @@
     <img width="650" src="https://discord-profile-preview.teatoneice.repl.co/587564522009788426" />
   </p>
 </a>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fantasyxrd/fantasyxrd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fantasyxrd/fantasyxrd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fantasyxrd/fantasyxrd/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+# Github Stats
+
+ <br />
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=fantasyxrd&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="fantasyxrd" />
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+
+  
+<br />
+
+
+ 
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasyxrd&theme=material-palenight&hide_border=false" alt="fantasyxrd" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+ 
+
+ 
+ <br />
+ 
+  
+  
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasyxrd&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fantasyxrd" />
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+  </a>
+</p>
+ 
+  
+  
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantasyxrd&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/fantasyxrd/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=fantasyxrd&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
+
+
+<!--
+</details>
+-->
+
+<!--
+<details>
+   <summary>:zap: Languages and Tools</summary>
+ -->
