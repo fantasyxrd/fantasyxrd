@@ -32,9 +32,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=fantasyxrd&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="fantasyxrd" />
-    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/">
   </a>
 </p>
 
@@ -45,9 +45,9 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasyxrd&theme=material-palenight&hide_border=false" alt="fantasyxrd" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/">
   </a>
 </p>
  
@@ -59,9 +59,9 @@
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasyxrd&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fantasyxrd" />
-    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/fantasyxrd/fantasyxrd/blob/main/">
   </a>
 </p>
  
